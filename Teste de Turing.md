@@ -1,0 +1,5 @@
+# Teste de Turing
+
+​			O teste de Turing nada mas é que um jogo onde envolve três jogadores em que um jogador é o computador, outro jogador é um humano e o terceiro jogador é um interrogador humano, que está isolado dos outros dois jogadores e seu trabalho é encontrar qual jogador é a máquina entre os dois. O jogo é baseado em perguntas e respostas o jogador que está como interrogador precisa identificar qual dos jogadores é a máquina. Toda conversa entre os jogadores é via teclado e tela, o resultado do teste não depende de cada resposta correta, mas apenas de quão próximas suas respostas são como uma resposta humana. O computador tem permissão para fazer todo o possível pra que o interrogador erre. Caso o interrogador não for capaz de identificar quem é a máquina e qual é o humano, então a máquina passa no teste com sucesso, e a máquina é considerada inteligente. 
+
+O teste de Turing foi introduzido por Alan Turing em seu artigo de 1950, "Computing Machinery and Intelligence", que considerava a questão "Pode a máquina pensar?
